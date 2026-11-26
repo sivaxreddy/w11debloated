@@ -1,0 +1,9 @@
+# Local logs and backups created by the script
+win11-safe-tweaks-*/
+*.log
+*.reg
+
+# OS junk
+Thumbs.db
+desktop.ini
+*.tmp
